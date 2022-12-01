@@ -1,2 +1,0 @@
-# RealPlug
-Real Plug
